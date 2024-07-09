@@ -33,7 +33,7 @@
   ],
   "anchors": [
     {
-      "name": "Privacy policy",
+      "name": "Privacy Policy",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/community"
     },
@@ -54,7 +54,8 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development"
+        "development",
+        "privacy"
       ]
     },
     {
