@@ -33,9 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Privacy policy",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "pages": "privacy"
     },
     {
       "name": "Community",
