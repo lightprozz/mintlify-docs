@@ -35,7 +35,7 @@
     {
       "name": "Privacy Policy",
       "icon": "book-open-cover",
-      "url": "/privacy"
+      "url": "privacy"
     },
     {
       "name": "Community",
@@ -54,8 +54,7 @@
       "pages": [
         "introduction",
         "quickstart",
-        "development",
-        "privacy"
+        "development"
       ]
     },
     {
